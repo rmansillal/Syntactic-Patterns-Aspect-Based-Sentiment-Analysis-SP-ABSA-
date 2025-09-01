@@ -1,0 +1,15 @@
+# Core Libraries
+spacy==3.7.2
+nltk==3.8.1
+transformers==4.35.2
+pandas==2.1.3
+numpy==1.26.2
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+networkx==3.2.1
+
+# For Jupyter Notebook
+ipython
+tqdm
